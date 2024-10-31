@@ -1,0 +1,15 @@
+{
+  "name": "dpsoft/wp-parsian-bank-woocommerce",
+  "description": "Parsian bank payment for wordpress woocommerce",
+  "type": "plugin",
+  "require": {
+    "dpsoft/parsian-payment": "^1.0"
+  },
+  "license": "GPL-3",
+  "authors": [
+    {
+      "name": "SadeghPM",
+      "email": "sadeghpm@gmail.com"
+    }
+  ]
+}
